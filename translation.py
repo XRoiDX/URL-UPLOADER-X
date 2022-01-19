@@ -5,10 +5,10 @@ class Translation(object):
 ᴜsɪɴɢ ᴛʜɪs ʙᴏᴛ!
 /help ꜰᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs!"""
     FORMAT_SELECTION = "sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ꜰᴏʀᴍᴀᴛ: <a href='{}'>ꜰɪʟᴇ sɪᴢᴇ ᴍɪɢʜᴛ ʙᴇ ᴀᴘᴘʀᴏxɪᴍᴀᴛᴇ</a> \nɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴇᴛ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ, sᴇɴᴅ ᴘʜᴏᴛᴏ ʙᴇꜰᴏʀᴇ ᴏʀ ǫᴜɪᴄᴋʟʏ ᴀꜰᴛᴇʀ ᴛᴀᴘᴘɪɴɢ ᴏɴ ᴀɴʏ ᴏꜰ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs.\nʏᴏᴜ ᴄᴀɴ ᴜsᴇ /deletethumbnail ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴀᴜᴛᴏ-ɢᴇɴᴇʀᴀᴛᴇᴅ ᴛʜᴜᴍʙɴᴀɪʟ."
-    SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
+    SET_CUSTOM_USERNAME_PASSWORD = """ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴘʀᴇᴍɪᴜᴍ ᴠɪᴅᴇᴏs,ᴘʀᴏᴠɪᴅᴇ ɪɴ ᴛʜᴇ ꜰᴏʟʟᴏᴡɪɴɢ ꜰᴏʀᴍᴀᴛ:
 URL | filename | username | password"""
-    DOWNLOAD_START = "📥Downloading..."
-    UPLOAD_START = "📤Uploading..."
+    DOWNLOAD_START = "📥Dᴏᴡɴʟᴏᴀᴅɪɴɢ Pʟᴇᴀsᴇ ᴡᴀɪᴛ..."
+    UPLOAD_START = "📤 Uᴘʟᴏᴀᴅɪɴɢ Pʟᴇᴀsᴇ ᴡᴀɪᴛ..."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "Thanks for using @Uploader_X_bot\n\n<b>Join : @Space_X_Bots</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds.\n\n@Uploader_X_Bot"
