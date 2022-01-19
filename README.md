@@ -34,7 +34,7 @@ heroku/python
 * viewthumbnail - 🌌 Current Thumbnail
 * delthumbnail - 🎇 Delete thumbnail
 
-
+---
 
 ## Credits, and Thanks to
 
@@ -46,3 +46,4 @@ heroku/python
 * [@xgorn](https://t.me/xgorn)
 #### LICENSE
 - GPLv3
+---
