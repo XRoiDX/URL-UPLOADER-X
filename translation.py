@@ -12,25 +12,25 @@ URL | filename | username | password"""
     RCHD_TG_API_LIMIT = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} seconds.\nDᴇᴛᴇᴄᴛᴇᴅ ꜰɪʟᴇ sɪᴢᴇ: {}\nSᴏʀʀʏ. ʙᴜᴛ, ɪ ᴄᴀɴɴᴏᴛ ᴜᴘʟᴏᴀᴅ ꜰɪʟᴇs ɢʀᴇᴀᴛᴇʀ ᴛʜᴀɴ 2ɢʙ ᴅᴜᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ʟɪᴍɪᴛᴀᴛɪᴏɴs"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "ᴛʜᴀɴᴋs ꜰᴏʀ ᴜsɪɴɢ ᴛʜɪs ʙᴏᴛ\n\n<b>Jᴏɪɴ : @XRoid_BotZ</b>"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\n@XRoid_BotZ"
-    SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
-    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
+    SAVED_CUSTOM_THUMB_NAIL = "ᴄᴜsᴛᴏᴍ ᴠɪᴅᴇᴏ / ꜰɪʟᴇ ᴛʜᴜᴍʙɴᴀɪʟ sᴀᴠᴇᴅ. ᴛʜɪs ɪᴍᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴜsᴇᴅ ɪɴ ᴛʜᴇ ᴠɪᴅᴇᴏ / ꜰɪʟᴇ."
+    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴄʟᴇᴀʀᴇᴅ sᴜᴄᴄᴇsꜰᴜʟʟʏ."
     CUSTOM_CAPTION_UL_FILE = "{}"
-    NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
-    HELP_USER = """How to Use Me? Follow These steps!
+    NO_VOID_FORMAT_FOUND = "Eʀʀᴏʀ...\n<b>Yᴏᴜᴛᴜʙᴇᴅʟ</b> Sᴀɪᴅ: {}"
+    HELP_USER = """ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ? ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ sᴛᴇᴘs!
     
-1. Send url (example.domain/File.mp4 | New Filename.mp4).
-2. Send Image As Custom Thumbnail (Optional).
-3. Select the button.
-   SVideo - Give File as video with Screenshots
-   DFile  - Give File (video) as file with Screenshots
-   Video  - Give File as video without Screenshots
-   File   - Give File without Screenshots
+1. sᴇɴᴅ ᴜʀʟ (ᴇxᴀᴍᴘʟᴇ.ᴅᴏᴍᴀɪɴ/ꜰɪʟᴇ.ᴍᴘ4 | ɴᴇᴡ ꜰɪʟᴇɴᴀᴍᴇ.ᴍᴘ4).
+2. sᴇɴᴅ ɪᴍᴀɢᴇ ᴀs ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ (ᴏᴘᴛɪᴏɴᴀʟ).
+3. sᴇʟᴇᴄᴛ ᴛʜᴇ ʙᴜᴛᴛᴏɴ.
+   SVideo - ɢɪᴠᴇ ꜰɪʟᴇ ᴀs ᴠɪᴅᴇᴏ ᴡɪᴛʜ sᴄʀᴇᴇɴsʜᴏᴛs
+   DFile  - ɢɪᴠᴇ ꜰɪʟᴇ (ᴠɪᴅᴇᴏ) ᴀs ꜰɪʟᴇ ᴡɪᴛʜ sᴄʀᴇᴇɴsʜᴏᴛs
+   Video  - ɢɪᴠᴇ ꜰɪʟᴇ ᴀs ᴠɪᴅᴇᴏ ᴡɪᴛʜᴏᴜᴛ sᴄʀᴇᴇɴsʜᴏᴛs
+   File   - ɢɪᴠᴇ ꜰɪʟᴇ ᴡɪᴛʜᴏᴜᴛ sᴄʀᴇᴇɴsʜᴏᴛs
 
-If bot didn't respond, contact @Sources_Codes"""
-    REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Reply /generatecustomthumbnail to a media album, to generate custom thumbail"
-    ERR_ONLY_TWO_MEDIA_IN_ALBUM = """Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
-You can use /rename command after receiving file to rename it with custom thumbnail support.
+ɪꜰ ʙᴏᴛ ᴅɪᴅɴ'ᴛ ʀᴇsᴘᴏɴᴅ, ᴄᴏɴᴛᴀᴄᴛ @XXX_TeNTaTion_Fan"""
+    REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Rᴇᴘʟʏ /generatecustomthumbnail ᴛᴏ ᴀ ᴍᴇᴅɪᴀ ᴀʟʙᴜᴍ, ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙᴀɪʟ"
+    ERR_ONLY_TWO_MEDIA_IN_ALBUM = """ᴍᴇᴅɪᴀ ᴀʟʙᴜᴍ sʜᴏᴜʟᴅ ᴄᴏɴᴛᴀɪɴ ᴏɴʟʏ ᴛᴡᴏ ᴘʜᴏᴛᴏs. ᴘʟᴇᴀsᴇ ʀᴇ-sᴇɴᴅ ᴛʜᴇ ᴍᴇᴅɪᴀ ᴀʟʙᴜᴍ, ᴀɴᴅ ᴛʜᴇɴ ᴛʀʏ ᴀɢᴀɪɴ, ᴏʀ sᴇɴᴅ ᴏɴʟʏ ᴛᴡᴏ ᴘʜᴏᴛᴏs ɪɴ ᴀɴ ᴀʟʙᴜᴍ."
+ʏᴏᴜ ᴄᴀɴ ᴜsᴇ /rename ᴄᴏᴍᴍᴀɴᴅ ᴀꜰᴛᴇʀ ʀᴇᴄᴇɪᴠɪɴɢ ꜰɪʟᴇ ᴛᴏ ʀᴇɴᴀᴍᴇ ɪᴛ ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ.
 """
-    CANCEL_STR = "Process Cancelled"
-    ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
+    CANCEL_STR = "Pʀᴏᴄᴇss Cᴀɴᴄᴇʟʟᴇᴅ ❌"
+    ZIP_UPLOADED_STR = "Uᴘʟᴏᴀᴅᴇᴅ {} Fʟᴇs ɪɴ{} sᴇᴄᴏɴᴅs"
     SLOW_URL_DECED = "Gosh that seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
