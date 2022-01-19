@@ -4,7 +4,7 @@ class Translation(object):
 ʏᴏᴜ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ʜᴛᴛᴘ/ʜᴛᴛᴘs ᴅɪʀᴇᴄᴛ ʟɪɴᴋ, 
 ᴜsɪɴɢ ᴛʜɪs ʙᴏᴛ!
 /help ꜰᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs!"""
-    FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
+    FORMAT_SELECTION = "sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ꜰᴏʀᴍᴀᴛ: <a href='{}'>ꜰɪʟᴇ sɪᴢᴇ ᴍɪɢʜᴛ ʙᴇ ᴀᴘᴘʀᴏxɪᴍᴀᴛᴇ</a> \nɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴇᴛ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ, sᴇɴᴅ ᴘʜᴏᴛᴏ ʙᴇꜰᴏʀᴇ ᴏʀ ǫᴜɪᴄᴋʟʏ ᴀꜰᴛᴇʀ ᴛᴀᴘᴘɪɴɢ ᴏɴ ᴀɴʏ ᴏꜰ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs.\nʏᴏᴜ ᴄᴀɴ ᴜsᴇ /deletethumbnail ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴀᴜᴛᴏ-ɢᴇɴᴇʀᴀᴛᴇᴅ ᴛʜᴜᴍʙɴᴀɪʟ."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
     DOWNLOAD_START = "📥Downloading..."
