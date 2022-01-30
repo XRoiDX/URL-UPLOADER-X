@@ -13,4 +13,4 @@ class Button(object):
                                             InlineKeyboardButton(text="🔍 ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat="!3 " ) ],
                                           [ InlineKeyboardButton(text="📁 ThePirateBay", callback_data='00'),
                                             InlineKeyboardButton(text="🔍 ꜱᴇᴀʀᴄʜ", switch_inline_query_current_chat="!4 ") ],
-                                          [ InlineKeyboardButton(text="❌", callback_data="X0") ] ] )
+                                          [ InlineKeyboardButton(text="❌ CANCEL ❌", callback_data="X0") ] ] )
